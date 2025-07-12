@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;Senior%20Web3%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/maxitdev2021"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;Senior%20Web3%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
@@ -160,7 +160,7 @@
 > GitHub Activity Graph
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/monte1s"><img alt="rexon-ramzes's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=monte1s&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/maxitdev2021"><img alt="rexon-ramzes's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=maxitdev2021&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
 
